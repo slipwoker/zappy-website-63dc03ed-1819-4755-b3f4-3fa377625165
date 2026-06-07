@@ -1,0 +1,99 @@
+# ההדפסות של עילאי — Generative Engine Optimization Map
+
+> A paid 3D printing service where customers can submit requests for custom 3D printed items. The business owner sets the pricing and fulfills orders using their 3D printer. The site needs to facilitate order requests and payment for printing services.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים שירותי הדפסות תלת מימד גדולות ואיכותיות? אצלנו תקבלו ייעוץ, התאמה אישית והדפסה מקצועית לכל רעיון. שלחו בקשה עוד היום ותראו איך הדמיון הופך למציאות.
+
+### שירותים
+https://example.com/services
+מפורטים ועד גדולים – גלו את מגוון שירותי ההדפסה בתלת מימד לחובבים ולמקצוענים. התאמה מושלמת לפרויקט שלכם, במחירים הוגנים וליווי צמוד. כנסו לבחור את השירות המושלם.
+
+### גלריה
+https://example.com/gallery
+רוצים השראה? צפו בגלריה העשירה של הדפסות תלת מימד גדולות ומדויקות שביצענו. כל פריט הוא הוכחה לאיכות ולגימור המוקפד שלנו. בואו לראות מה אפשר ליצור איתנו.
+
+### צור קשר
+https://example.com/contact
+יש לכם רעיון מטורף להדפסה? צרו קשר עוד היום! מלאו את הפרטים, תארו מה תרצו להדפיס, ונחזור אליכם במהירות עם הצעת מחיר משתלמת לשירותי הדפסה מקצועיים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ההדפסות של עילאי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ההדפסות של עילאי
+
+### Category
+https://example.com/category/:slug
+מוצרים - ההדפסות של עילאי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ההדפסות של עילאי
+A paid 3D printing service where customers can submit requests for custom 3D printed items. The business owner sets the pricing and fulfills orders using their 3D printer. The site needs to facilitate order requests and payment for printing services.
+
+## Target Audience
+- אנשים שצריכים הדפסת תלת מימד
+- מישפחה וחברים
+
+## Industry
+3D Printing Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
